@@ -1,0 +1,79 @@
+Green Southwest; Location: 510, 798; Adjacent vertices: Robinson/Collis, Green South, Green West, Green Center, Green East, Green East
+Green Southeast; Location: 647, 793; Adjacent vertices: Green South, Green East, New Hamp, Green Center, Green Center
+Green Center; Location: 576, 711; Adjacent vertices: Green East, Green West, Green Southeast, Green Southwest, Green Northeast, Green Northwest, Green Northwest
+Green Northeast; Location: 636, 619; Adjacent vertices: Rauner, Green North, Green East, Wentworth, Green Center, Green Center
+Green Northwest; Location: 503, 622; Adjacent vertices: Sanborn, Green North, North Mass, Green West, Green Center, Baker, Green East, Green East
+Green West; Location: 503, 710; Adjacent vertices: Robinson/Collis, Green Center, South Mass, Green Northwest, Green Southwest, Green Southwest
+Green East; Location: 641, 707; Adjacent vertices: Green Center, Green Southeast, Green Northeast, Green Southwest, Green Northwest, Observatory Rd, Observatory Rd
+Observatory Rd; Location: 809, 751; Adjacent vertices: Gym, New Hamp, North Fayerweather, Green East, Green East
+XH; Location: 932, 705; Adjacent vertices: Gym, East Wheelock, East Wheelock
+Gym; Location: 873, 725; Adjacent vertices: XH, Observatory Rd, Fayerweather, Fayerweather
+New Hamp; Location: 739, 773; Adjacent vertices: Observatory Rd, Green Southeast, Green Southeast
+Green North; Location: 570, 618; Adjacent vertices: Green Northeast, Green Northwest, Baker, Baker
+Green South; Location: 580, 798; Adjacent vertices: Green Southeast, Green Southwest, Green Southwest
+Fayerweather; Location: 844, 644; Adjacent vertices: North Fayerweather, Gym, Gym
+East Wheelock; Location: 993, 687; Adjacent vertices: XH, Brace, Brace
+Brace; Location: 958, 623; Adjacent vertices: East Wheelock, East Wheelock
+Blunt; Location: 423, 508; Adjacent vertices: Butterfield, Baker West, North Mass, North Mass
+Baker West; Location: 496, 504; Adjacent vertices: Sanborn, Blunt, Carson, Carson
+Sanborn; Location: 498, 560; Adjacent vertices: Baker West, Green Northwest, Baker, North Mass, North Mass
+Butterfield; Location: 359, 509; Adjacent vertices: Gold Coast, Blunt, FDA, FDA
+Gold Coast; Location: 295, 509; Adjacent vertices: Tuck Dr, Butterfield, Butterfield
+Tuck Dr; Location: 240, 509; Adjacent vertices: Gold Coast, Buchanan, Buchanan
+Buchanan; Location: 178, 509; Adjacent vertices: Tuck Dr, Thayer, Tuck, Murdough, Murdough
+Tuck; Location: 116, 487; Adjacent vertices: Murdough, Buchanan, Buchanan
+Thayer; Location: 127, 548; Adjacent vertices: Murdough, Cummings, Buchanan, Buchanan
+Murdough; Location: 84, 523; Adjacent vertices: Tuck, Thayer, Cummings, Buchanan, Buchanan
+Cummings; Location: 86, 589; Adjacent vertices: Thayer, Murdough, Murdough
+Carson; Location: 495, 413; Adjacent vertices: Rocky, Kemeny, Berry, Baker West, Baker West
+Rocky; Location: 421, 389; Adjacent vertices: FDA, Carson, Carson
+FDA; Location: 365, 374; Adjacent vertices: Bones Gate, Rocky, Butterfield, Butterfield
+Bones Gate; Location: 314, 358; Adjacent vertices: FDA, KDE, KDE
+KDE; Location: 262, 337; Adjacent vertices: Bones Gate, AXA, AXA
+AXA; Location: 205, 321; Adjacent vertices: KDE, AQ, AQ
+Kemeny; Location: 499, 333; Adjacent vertices: Choate House, Carson, Carson
+Rauner; Location: 637, 556; Adjacent vertices: Green Northeast, Wheeler, Baker, Richardson, Richardson
+Wheeler; Location: 646, 485; Adjacent vertices: Steele, Rauner, Wilder, Berry, Berry
+Wilder; Location: 730, 477; Adjacent vertices: Richardson, Steele, Wheeler, Wheeler
+Steele; Location: 681, 434; Adjacent vertices: Wheeler, Wilder, Fairchild, Parker House, Parker House
+Richardson; Location: 725, 533; Adjacent vertices: Wilder, Wentworth, Rauner, Rauner
+Wentworth; Location: 727, 606; Adjacent vertices: North Fayerweather, Richardson, Green Northeast, Green Northeast
+Fairchild; Location: 729, 381; Adjacent vertices: Burke, Steele, Steele
+Burke; Location: 775, 327; Adjacent vertices: Sudikoff, Bildner, Fairchild, Fairchild
+Sudikoff; Location: 736, 288; Adjacent vertices: McLaughlin, Raven, Burke, Parker House, Parker House
+Raven; Location: 696, 251; Adjacent vertices: Goldstein, Sudikoff, Moore, Parker House, Parker House
+Choate House; Location: 535, 269; Adjacent vertices: LALACS, Kemeny, Choates, Choates
+LALACS; Location: 568, 220; Adjacent vertices: Sherman, Choate House, Choate House
+Sherman; Location: 595, 177; Adjacent vertices: LALACS, Rope Ferry, Moore, Moore
+Moore; Location: 644, 213; Adjacent vertices: Sherman, Raven, Raven
+Rope Ferry; Location: 625, 129; Adjacent vertices: Sherman, Dicks House, Dicks House
+Dicks House; Location: 657, 81; Adjacent vertices: 11 Rope Ferry, Rope Ferry, Rope Ferry
+11 Rope Ferry; Location: 686, 46; Adjacent vertices: Dicks House, Dicks House
+Bildner; Location: 819, 280; Adjacent vertices: Gilman, Burke, Burke
+Gilman; Location: 858, 233; Adjacent vertices: Dana, Bildner, McLaughlin, Kellogg, Kellogg
+Dana; Location: 901, 206; Adjacent vertices: Gilman, Traffic Light, LSC West, LSC East, LSC East
+Traffic Light; Location: 975, 183; Adjacent vertices: LSC East, Dana, LSC West, LSC West
+LSC North; Location: 936, 71; Adjacent vertices: LSC East, LSC West, LSC West
+LSC West; Location: 924, 121; Adjacent vertices: LSC North, Traffic Light, Dana, Dana
+LSC East; Location: 960, 115; Adjacent vertices: LSC North, Traffic Light, Dana, Dana
+AQ; Location: 126, 255; Adjacent vertices: DDD, AXA, AXA
+DDD; Location: 187, 211; Adjacent vertices: Roth Center, AQ, AQ
+Roth Center; Location: 231, 167; Adjacent vertices: DDD, DDD
+Choates; Location: 409, 217; Adjacent vertices: Dean's House, Choate House, Choate House
+Dean's House; Location: 350, 142; Adjacent vertices: Choates, Choates
+McLaughlin; Location: 767, 247; Adjacent vertices: Sudikoff, Gilman, Gilman
+Kellogg; Location: 807, 135; Adjacent vertices: Gilman, Goldstein, Goldstein
+Observatory; Location: 787, 541; Adjacent vertices: North Fayerweather, Dragon, Dragon
+Bema; Location: 918, 529; Adjacent vertices: North Fayerweather, North Fayerweather
+North Fayerweather; Location: 780, 608; Adjacent vertices: Wentworth, Observatory, Fayerweather, Observatory Rd, Bema, Bema
+Dragon; Location: 856, 331; Adjacent vertices: Observatory, Observatory
+Baker; Location: 567, 519; Adjacent vertices: Rauner, Sanborn, Green North, Green Northwest, Green Northwest
+Berry; Location: 577, 419; Adjacent vertices: Carson, Wheeler, Parker House, Parker House
+Parker House; Location: 649, 313; Adjacent vertices: Raven, Sudikoff, Steele, Berry, Berry
+Goldstein; Location: 722, 207; Adjacent vertices: Raven, Kellogg, 37 Dewey Field, 37 Dewey Field
+37 Dewey Field; Location: 752, 96; Adjacent vertices: Goldstein, Goldstein
+North Mass; Location: 426, 603; Adjacent vertices: Mid Mass, Green Northwest, Sanborn, Blunt, Blunt
+South Mass; Location: 430, 717; Adjacent vertices: 1953 Commons, Mid Mass, Green West, Green West
+Mid Mass; Location: 426, 657; Adjacent vertices: North Mass, South Mass, South Mass
+1953 Commons; Location: 429, 747; Adjacent vertices: South Mass, Robinson/Collis, Robinson/Collis
+Robinson/Collis; Location: 480, 753; Adjacent vertices: Green West, 1953 Commons, Green Southwest, Green Southwest
