@@ -1,6 +1,5 @@
 # Author: Ivy Zhang
 # Date: 03/04/2022
-# Purpose: Lab 4 Checkpoint - Vertex Class
 
 from cs1lib import *
 
