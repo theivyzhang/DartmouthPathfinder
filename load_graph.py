@@ -1,6 +1,5 @@
 # Author: Ivy Zhang
 # Date: 03/04/2022
-# Purpose: Lab4 Checkpoint - load_graph.py
 
 
 from vertex import Vertex
