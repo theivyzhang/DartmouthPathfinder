@@ -1,6 +1,5 @@
 # Author: Ivy Zhang
 # Date: 03/06/2022
-# Purpose: Lab4 Final - map canvas
 
 from cs1lib import *
 from load_graph import *
