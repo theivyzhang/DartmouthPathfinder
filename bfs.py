@@ -1,10 +1,9 @@
 # Author: Ivy Zhang
 # Date: 03/05/2022
-# Purpose: Lab 4 Final - BFS Algorithm
 
 from collections import deque
 
-
+# breadth first search algorithm
 def breadth_first_search(start_vertex, end_vertex):
     frontier = deque()
     backpointer = {}  # all the moves
